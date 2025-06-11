@@ -1,4 +1,4 @@
-## This main.yml creats a inventory.ini file dynamically, we don't need to make it ourself
+## This main.yml creates a inventory.ini file dynamically, we don't need to make it ourself
 
 ## run cmd: ansible-playbook main.yml
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/b3fb080a-0be0-4f39-a654-cb66d953446b" />
