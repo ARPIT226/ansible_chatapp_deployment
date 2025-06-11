@@ -2,6 +2,7 @@
 
 ## run cmd: ansible-playbook main.yml
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/b3fb080a-0be0-4f39-a654-cb66d953446b" />
+
 play recap
 
 ## User registration from chatapp application
